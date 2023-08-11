@@ -1,0 +1,23 @@
+AFTER explanations solve the following questions about pointers
+
+0.Write a program in C to add two numbers using pointers.
+Test Data :
+Input the first number : 10
+Input the second number : 15
+
+1.write programe in c that multiplies two numbers using pointers
+Test data 
+input first number as : 10
+input second number as :15
+
+2.write program in c that divides two numbers using pointers
+Test data
+input first number as : 10
+input second number as :50
+
+3.write a program that subtracts two numbers using pointers
+input first number as : 40
+input second number as : 20
+
+NB Your code should be betty compliant
+and run your code...
